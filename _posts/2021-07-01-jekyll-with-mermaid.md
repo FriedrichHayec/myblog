@@ -3,7 +3,7 @@ layout: post
 title:  "jekyll with mermaid"
 date:   2021-07-01 13:54:00 +0800
 categories: jekyll tutorial
-permalink: /tutorial/frontend
+permalink: /tutorial/frontend/jekyll001
 ---
 
 

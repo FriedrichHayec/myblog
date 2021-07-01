@@ -3,7 +3,7 @@ layout: post
 title:  "私酿酒moonshine"
 date:   2021-07-01 09:06:00 +0800
 categories: jekyll update
-permalink: /outerLink/moonshine
+permalink: /readingnote/moonshine
 ---
 
 _作者：SalzNEisen\
