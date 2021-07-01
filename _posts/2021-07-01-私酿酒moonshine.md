@@ -1,12 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-07-01 09:05:48
- * @LastEditTime: 2021-07-01 09:12:47
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \myblog\_posts\2021-07-01-有感而发.md
--->
-
 ---
 layout: post
 title:  "私酿酒moonshine"

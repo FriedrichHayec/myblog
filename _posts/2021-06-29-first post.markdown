@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-06-29 18:29:20
- * @LastEditTime: 2021-06-29 18:34:02
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \myblog\_posts\2021-06-29-first post.markdown
--->
 ---
 layout: post
 title:  "First post!"
